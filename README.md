@@ -7,4 +7,4 @@
 💰 **Когда-то фрилансил** (Photoshop/Illustrator/Figma)<br/>
 
 ### Связь
-[telegram ✈️](https://t.me/her0ku)
+<a href=”https://t.me/her0ku"><img align=”left” src=”" alt=”icon | Telegram” width=”21px”/></a>
