@@ -6,5 +6,5 @@
 🐍 **Python** (Парсинг/Нейронки)<br/>
 💰 **Когда-то фрилансил** (Photoshop/Illustrator/Figma)<br/>
 
-
-Click [here](google.com) to go to my Quora profile.
+### Связь
+[telegram ✈️](https://t.me/her0ku)
