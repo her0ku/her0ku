@@ -9,4 +9,3 @@
 
 ### Связь
 <a href="https://t.me/her0ku"><img align="left" src="https://github.com/her0ku/bio/blob/main/upload/800px-Telegram_Messenger.png" alt="icon | Telegram" width="32px"/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=her0ku)](https://github.com/anuraghazra/github-readme-stats)
