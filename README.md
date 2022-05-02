@@ -9,4 +9,4 @@
 
 ### Связь
 <a href="https://t.me/her0ku"><img align="left" src="https://github.com/her0ku/bio/blob/main/upload/800px-Telegram_Messenger.png" alt="icon | Telegram" width="32px"/>
-<a href="https://vk.com/her0ku"><img align="left" src="https://github.com/her0ku/her0ku/blob/main/upload/VK.com-logo.svg.png" alt="icon | VK" width="32px"/>
+<a href="https://vk.com/her0ku"><img align="left" src="https://github.com/her0ku/her0ku/blob/main/upload/VK.com-logo.svg.png" alt="icon | VK" width="30px"/>
