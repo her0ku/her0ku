@@ -1,4 +1,4 @@
-![](https://tenor.com/ru/view/thomas-shelby-peaky-blinders-gif-19044952)
+![thomas-shelby-peaky-blinders](https://github.com/user-attachments/assets/1c046587-5c57-4f04-b806-1d8735416cf5)
 
 ### 🛠️ Технологический арсенал
 
