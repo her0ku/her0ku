@@ -1,4 +1,4 @@
-![thomas-shelby-peaky-blinders](https://github.com/user-attachments/assets/1c046587-5c57-4f04-b806-1d8735416cf5)
+![thomas-shelby-перекур_парни](https://github.com/user-attachments/assets/3fc19945-73c3-45b6-a0a6-dcc234e4cc76)
 
 ### 🛠️ Технологический арсенал
 
