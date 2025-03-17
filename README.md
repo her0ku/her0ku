@@ -4,6 +4,7 @@
 ### 🔐 Информационная безопасность
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+[![Kuma SIEM](https://img.shields.io/badge/KUMA_SIEM-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kuma.io/)
 
 ### ☕ Java Экосистема
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
