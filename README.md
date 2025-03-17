@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/3oFzlXaiuAw8UulQwU/giphy.gif?cid=790b7611qro1y7drbc1ehwvh00wd9nw91x4sr6w8z6jocigb&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+[![]([https://media.giphy.com/media/3oFzlXaiuAw8UulQwU/giphy.gif?cid=790b7611qro1y7drbc1ehwvh00wd9nw91x4sr6w8z6jocigb&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://tenor.com/ru/view/thomas-shelby-peaky-blinders-gif-19044952))](https://tenor.com/ru/view/thomas-shelby-peaky-blinders-gif-19044952)
 
 ### 🛠️ Технологический арсенал
 
