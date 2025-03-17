@@ -21,7 +21,7 @@
 public class Day {
     public static void main(String[] args) {
         while(coffee.isAvailable()) {
-            code.optimize();
+            security.work();
             security.check();
             new Challenges().solve();
         }
