@@ -1,4 +1,4 @@
-![Banner][([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q1d3VhYXF6Y2h5bG5xbmN4Z3R5MWV6NnN0cDd2cTZqY3V6b3V5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx6cWd6OG52dzcwZmVpZjJyYndkeThrbWNkODM3Z3cwbms4M3F5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtLZ05FBnC48uYGzuO/giphy.gif))](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx6cWd6OG52dzcwZmVpZjJyYndkeThrbWNkODM3Z3cwbms4M3F5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtLZ05FBnC48uYGzuO/giphy.gif)
+![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx6cWd6OG52dzcwZmVpZjJyYndkeThrbWNkODM3Z3cwbms4M3F5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtLZ05FBnC48uYGzuO/giphy.gif))]
 
 ## 🛠️ Технологический арсенал
 
