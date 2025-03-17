@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx6cWd6OG52dzcwZmVpZjJyYndkeThrbWNkODM3Z3cwbms4M3F5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtLZ05FBnC48uYGzuO/giphy.gif" width="800" alt="tech banner">
 </div>
+
 ### 🛠️ Технологический арсенал
 
 ### 🔐 Информационная безопасность
