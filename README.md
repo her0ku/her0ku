@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx6cWd6OG52dzcwZmVpZjJyYndkeThrbWNkODM3Z3cwbms4M3F5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtLZ05FBnC48uYGzuO/giphy.gif" width="800" alt="tech banner">
-</div>
+![Banner](https://media.giphy.com/media/3oFzlXaiuAw8UulQwU/giphy.gif?cid=790b7611qro1y7drbc1ehwvh00wd9nw91x4sr6w8z6jocigb&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### 🛠️ Технологический арсенал
 
